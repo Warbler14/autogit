@@ -28,5 +28,5 @@ GIT_DEFAULT_BRANCH="main"
 config.env가 없으면 필요한 정보를 직접 입력받습니다.
 .git 디렉토리가 이미 있다면 작업은 즉시 종료됩니다.
 ```bash
-curl -s https://github.com/Warbler14/autogit/auto.sh | bash
+curl -s https://github.com/Warbler14/autogit/blob/main/auto.sh| bash
 ```
